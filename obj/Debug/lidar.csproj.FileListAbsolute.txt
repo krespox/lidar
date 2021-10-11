@@ -1,0 +1,10 @@
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\bin\Debug\lidar_inzynierka.exe.config
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\bin\Debug\lidar_inzynierka.exe
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\bin\Debug\lidar_inzynierka.pdb
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar.csprojAssemblyReference.cache
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar.Form1.resources
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar_inzynierka.Properties.Resources.resources
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar.csproj.GenerateResource.cache
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar.csproj.CoreCompileInputs.cache
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar_inzynierka.exe
+D:\MyDiploma-main (1)\MyDiploma-main\lidar_inzynierka\lidar_inzynierka\obj\Debug\lidar_inzynierka.pdb
