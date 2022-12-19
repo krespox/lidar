@@ -1,3 +1,6 @@
+
+//Sensor
+
 #include<SoftwareSerial.h>// soft serial port header file
 SoftwareSerial Serial1(8,9); // define the soft serial port as Serial1, pin2 as RX, and pin3 as TX
 /*For Arduino board with multiple serial ports such as DUE board, comment out the above two codes, and directly use
@@ -64,6 +67,7 @@ void startCommunication(float distance, int pos)
        switch (str[1]) 
        {
           case 8:
+             //Set PIN and value
              switch (str[2])
             {
               case 8:
@@ -84,6 +88,8 @@ void startCommunication(float distance, int pos)
   }
 }
 
+
+//step motor
 #include <Stepper.h>
 
 int angle = 360.0 / 1.7;
